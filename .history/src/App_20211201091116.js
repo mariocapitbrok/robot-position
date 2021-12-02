@@ -1,4 +1,4 @@
-import Robot from './components/robot';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {

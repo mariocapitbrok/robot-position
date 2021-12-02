@@ -1,3 +1,4 @@
+import logo from './logo.svg';
 import Robot from './components/robot';
 import './App.css';
 
